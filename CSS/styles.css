@@ -92,8 +92,8 @@ hr{
 
 .bottom-cloud{
     position: absolute;
-    top: 55%;
-    left: 20%;
+    top: auto;
+    left: auto;
     width: 15%;
 }
 .top-cloud{
